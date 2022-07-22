@@ -33,6 +33,7 @@ It covers credit cards of 1000 customers doing transactions with a pool of 800 m
 ![image](https://user-images.githubusercontent.com/91864024/180410437-f5ceff5f-4b77-429e-8562-e1eb6248ea2a.png)
 
 Comments: 99.83% of transactions are normal, while only 0.17% are fraud.
+
 **- Pre-processing data:**
 
 ![image](https://user-images.githubusercontent.com/91864024/180410873-940d4477-e727-49fd-99c0-e3e1700c9acf.png)
